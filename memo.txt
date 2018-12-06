@@ -1,0 +1,5 @@
+download
+https://projectlombok.org/download
+
+https://qiita.com/bakira/items/03a7634027e1e98c8c6e
+compileOnly "org.projectlombok:lombok:1.16.4"
